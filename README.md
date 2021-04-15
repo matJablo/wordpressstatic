@@ -1,0 +1,2 @@
+# wordpressstatic
+wordpressstatic
