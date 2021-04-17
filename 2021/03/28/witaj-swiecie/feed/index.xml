@@ -8,23 +8,23 @@
 <channel>
 	<title>
 	Komentarze do: Witaj, świecie!	</title>
-	<atom:link href="/https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/</link>
+	<atom:link href="https:///2021/03/28/witaj-swiecie/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///2021/03/28/witaj-swiecie/</link>
 	<description></description>
 	<lastBuildDate>Sun, 28 Mar 2021 19:16:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>
 		Autor: Komentator WordPress		</title>
-		<link>/https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/#comment-1</link>
+		<link>https:///2021/03/28/witaj-swiecie/#comment-1</link>
 
 		<dc:creator><![CDATA[Komentator WordPress]]></dc:creator>
 		<pubDate>Sun, 28 Mar 2021 19:16:20 +0000</pubDate>
-		<guid isPermaLink="false">/https://matjablo.github.io/wordpressstatic/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https:///?p=1#comment-1</guid>
 
 					<description><![CDATA[Cześć, to jest komentarz.
 Aby zapoznać się z moderowaniem, edycją i usuwaniem komentarzy, należy odwiedzić ekran Komentarze w kokpicie.
