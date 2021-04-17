@@ -9,8 +9,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="https:///feed/" rel="self" type="application/rss+xml" />
-	<link>https://</link>
+	<atom:link href="https://matjablo.github.io/wordpressstatic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://matjablo.github.io/wordpressstatic</link>
 	<description></description>
 	<lastBuildDate>Sun, 28 Mar 2021 19:16:20 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Witaj, świecie!</title>
-		<link>https:///2021/03/28/witaj-swiecie/</link>
-					<comments>https:///2021/03/28/witaj-swiecie/#comments</comments>
+		<link>https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/</link>
+					<comments>https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 28 Mar 2021 19:16:20 +0000</pubDate>
 				<category><![CDATA[Brak kategorii]]></category>
-		<guid isPermaLink="false">https:///?p=1</guid>
+		<guid isPermaLink="false">https://matjablo.github.io/wordpressstatic/?p=1</guid>
 
 					<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
 										<content:encoded><![CDATA[
 <p>Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https:///2021/03/28/witaj-swiecie/feed/</wfw:commentRss>
+					<wfw:commentRss>https://matjablo.github.io/wordpressstatic/2021/03/28/witaj-swiecie/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
